@@ -1,6 +1,6 @@
-### Hi there, I'm Danny 👋
+### Hi there👋
 
-Sono Danny, un aspirante **Web Developer Full-Stack** con base a Bergamo, Italia.
+Piacere, io mi chiamo Danny, sono un aspirante **Web Developer Full-Stack** con base a Bergamo, Italia.
 
 Vengo da un percorso inaspettato: ho lavorato come tecnico dentale, poi ho scoperto la programmazione e non sono più tornato indietro. Oggi costruisco cose sul web, imparando ogni giorno qualcosa di nuovo.
 
