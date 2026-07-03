@@ -12,8 +12,8 @@ Il mio stack principale è React, Node.js, Express e MongoDB (MERN). Sto approfo
 
 **Fun Facts:**
 
-- Vengo dal mondo dell'informatica
-- Uso l'AI (Claude, ChatGPT) come parte attiva del mio workflow di sviluppo
+- Non vengo dal mondo dell'informatica
+- Uso l'AI (Claude Code, ChatGPT) come parte attiva del mio workflow di sviluppo
 - Nel tempo libero mi alleno e gioco ai videogiochi
 - Sto cercando la mia prima posizione da developer — in presenza a Bergamo, oppure remoto/ibrido in Lombardia
 
