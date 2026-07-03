@@ -6,9 +6,9 @@ Vengo da un percorso inaspettato: ho lavorato come tecnico dentale, poi ho scope
 
 Ho una certificazione Web Developer e sto continuando a formarmi in autonomia sullo sviluppo full-stack.
 
-Il mio progetto principale è **Street and Race**, una piattaforma per eventi automotive che sto costruendo insieme ad amici del settore tech e non — trovi i dettagli nei repository in evidenza qui sotto.
+Il mio stack principale è React, Node.js, Express e MongoDB (MERN).
 
-Il mio stack principale è React, Node.js, Express e MongoDB (MERN). Sto approfondendo autenticazione e sicurezza, e mi piace lavorare con strumenti come Cloudinary e SendGrid.
+Il mio progetto principale è **Street and Race**, una piattaforma per eventi automotive che sto costruendo insieme ad amici del settore tech e non — trovi i dettagli nei repository in evidenza qui sotto.
 
 **Fun Facts:**
 
